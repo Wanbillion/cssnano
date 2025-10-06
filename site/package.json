@@ -11,7 +11,7 @@
     "@codemirror/commands": "^6.7.1",
     "@codemirror/lang-css": "^6.3.1",
     "@codemirror/language": "^6.10.8",
-    "@codemirror/state": "^6.5.0",
+    "@codemirror/state": "^6.5.2",
     "@codemirror/view": "^6.36.1",
     "cssnano-preset-advanced": "link:../packages/cssnano-preset-advanced",
     "cssnano-preset-default": "link:../packages/cssnano-preset-default",
